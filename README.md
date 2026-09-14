@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am student at Gachon University, and I am learning about open source
+I am student at Gachon University, and I am learning about open source.
 <!--
 **soyun34677/soyun34677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
